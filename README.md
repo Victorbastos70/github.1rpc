@@ -1,2 +1,2 @@
-# github.1rpc
-1 desafio do bootcamp github
+Desafio git/github do bootcamp banco inter na Dio
+Repositório criado para o desafio de projeto
